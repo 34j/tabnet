@@ -7,6 +7,7 @@ repository = "https://github.com/dreamquark-ai/tabnet"
 documentation = "https://github.com/dreamquark-ai/tabnet"
 readme = "README.md"
 authors = []
+license = "MIT"
 keywords = ["tabnet", "pytorch", "neural-networks" ]
 exclude = ["tabnet/*.ipynb"]
 
